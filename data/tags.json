@@ -1,0 +1,6558 @@
+[
+  {
+    "id": 46,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/advanced-crochet/",
+    "name": "advanced crochet",
+    "slug": "advanced-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/46",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=46"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "count": 4,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/amigurumi/",
+    "name": "amigurumi",
+    "slug": "amigurumi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/50",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=50"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/amigurumi-halloween/",
+    "name": "Amigurumi Halloween",
+    "slug": "amigurumi-halloween",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/146",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=146"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 155,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/amigurumi-patterns/",
+    "name": "Amigurumi Patterns",
+    "slug": "amigurumi-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/155",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=155"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/axolotl-toy/",
+    "name": "Axolotl Toy",
+    "slug": "axolotl-toy",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/103",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=103"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/baby-blanket-crochet/",
+    "name": "baby blanket crochet",
+    "slug": "baby-blanket-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/133",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=133"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/baby-blanket-pattern/",
+    "name": "baby blanket pattern",
+    "slug": "baby-blanket-pattern",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/93",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=93"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/baby-blankets/",
+    "name": "baby blankets",
+    "slug": "baby-blankets",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/137",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=137"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 153,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/baby-crochet-patterns/",
+    "name": "Baby Crochet Patterns",
+    "slug": "baby-crochet-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/153",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=153"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "count": 9,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/beginner-crochet/",
+    "name": "beginner crochet",
+    "slug": "beginner-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/36",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=36"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 140,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/beginner-crochet-hats/",
+    "name": "beginner crochet hats",
+    "slug": "beginner-crochet-hats",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/140",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=140"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/beginner-crochet-mistakes/",
+    "name": "beginner crochet mistakes",
+    "slug": "beginner-crochet-mistakes",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/40",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=40"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/beginner-crochet-tips/",
+    "name": "beginner crochet tips",
+    "slug": "beginner-crochet-tips",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/85",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=85"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/benefits-of-crochet/",
+    "name": "benefits of crochet",
+    "slug": "benefits-of-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/65",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=65"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/boho-style/",
+    "name": "boho style",
+    "slug": "boho-style",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/123",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=123"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/bramley-sweater/",
+    "name": "Bramley Sweater",
+    "slug": "bramley-sweater",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/128",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=128"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/cabled-crochet/",
+    "name": "cabled crochet",
+    "slug": "cabled-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/131",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=131"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/candle-making/",
+    "name": "Candle Making",
+    "slug": "candle-making",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/8",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=8"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/childrens-stories/",
+    "name": "children's stories",
+    "slug": "childrens-stories",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/106",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=106"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 149,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/christmas-crochet/",
+    "name": "Christmas Crochet",
+    "slug": "christmas-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/149",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=149"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/corn-on-the-cob/",
+    "name": "corn on the cob",
+    "slug": "corn-on-the-cob",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/95",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=95"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/cozy-baby-blanket/",
+    "name": "cozy baby blanket",
+    "slug": "cozy-baby-blanket",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/135",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=135"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/cozy-crochet-patterns/",
+    "name": "cozy crochet patterns",
+    "slug": "cozy-crochet-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/55",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=55"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 157,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/craft-ideas/",
+    "name": "craft ideas",
+    "slug": "craft-ideas",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/157",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=157"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crafting/",
+    "name": "crafting",
+    "slug": "crafting",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/37",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=37"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crafty-kitty-crochet/",
+    "name": "Crafty Kitty Crochet",
+    "slug": "crafty-kitty-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/96",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=96"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/creative-hobbies/",
+    "name": "creative hobbies",
+    "slug": "creative-hobbies",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/73",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=73"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/creativity/",
+    "name": "Creativity",
+    "slug": "creativity",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/9",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=9"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet/",
+    "name": "crochet",
+    "slug": "crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/109",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=109"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-accessories/",
+    "name": "crochet accessories",
+    "slug": "crochet-accessories",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/120",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=120"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 138,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-afghans/",
+    "name": "crochet afghans",
+    "slug": "crochet-afghans",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/138",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=138"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-baby-blanket/",
+    "name": "crochet baby blanket",
+    "slug": "crochet-baby-blanket",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/90",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=90"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-baby-projects/",
+    "name": "Crochet Baby Projects",
+    "slug": "crochet-baby-projects",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/154",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=154"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-beanie/",
+    "name": "crochet beanie",
+    "slug": "crochet-beanie",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/115",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=115"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-benefits/",
+    "name": "crochet benefits",
+    "slug": "crochet-benefits",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/75",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=75"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-blanket-patterns/",
+    "name": "crochet blanket patterns",
+    "slug": "crochet-blanket-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/136",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=136"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-blankets/",
+    "name": "crochet blankets",
+    "slug": "crochet-blankets",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/56",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=56"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-cardigans/",
+    "name": "crochet cardigans",
+    "slug": "crochet-cardigans",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/58",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=58"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-decoration/",
+    "name": "crochet decoration",
+    "slug": "crochet-decoration",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/51",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=51"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-decorations/",
+    "name": "Crochet Decorations",
+    "slug": "crochet-decorations",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/147",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=147"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-design-basics/",
+    "name": "crochet design basics",
+    "slug": "crochet-design-basics",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/84",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=84"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-fairy/",
+    "name": "crochet fairy",
+    "slug": "crochet-fairy",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/110",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=110"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-fashion/",
+    "name": "crochet fashion",
+    "slug": "crochet-fashion",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/78",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=78"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-garments/",
+    "name": "crochet garments",
+    "slug": "crochet-garments",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/79",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=79"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-gifts/",
+    "name": "crochet gifts",
+    "slug": "crochet-gifts",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/89",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=89"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-hacks/",
+    "name": "crochet hacks",
+    "slug": "crochet-hacks",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/39",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=39"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 143,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-hat-patterns/",
+    "name": "crochet hat patterns",
+    "slug": "crochet-hat-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/143",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=143"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-hat-tutorial/",
+    "name": "crochet hat tutorial",
+    "slug": "crochet-hat-tutorial",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/139",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=139"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-lessons/",
+    "name": "crochet lessons",
+    "slug": "crochet-lessons",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/43",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=43"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-mindfulness/",
+    "name": "crochet mindfulness",
+    "slug": "crochet-mindfulness",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/68",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=68"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "count": 5,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-pattern/",
+    "name": "crochet pattern",
+    "slug": "crochet-pattern",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/94",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=94"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "count": 11,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-patterns/",
+    "name": "crochet patterns",
+    "slug": "crochet-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/42",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=42"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-patterns-for-calm/",
+    "name": "crochet patterns for calm",
+    "slug": "crochet-patterns-for-calm",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/72",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=72"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "count": 3,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-projects/",
+    "name": "crochet projects",
+    "slug": "crochet-projects",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/53",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=53"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-scarf/",
+    "name": "crochet scarf",
+    "slug": "crochet-scarf",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/117",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=117"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-skills/",
+    "name": "crochet skills",
+    "slug": "crochet-skills",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/48",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=48"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-stitches/",
+    "name": "crochet stitches",
+    "slug": "crochet-stitches",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/45",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=45"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-sweater/",
+    "name": "Crochet Sweater",
+    "slug": "crochet-sweater",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/126",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=126"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-table-decor/",
+    "name": "crochet table decor",
+    "slug": "crochet-table-decor",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/62",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=62"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "count": 3,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-techniques/",
+    "name": "crochet techniques",
+    "slug": "crochet-techniques",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/44",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=44"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-tee/",
+    "name": "crochet tee",
+    "slug": "crochet-tee",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/112",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=112"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-tips/",
+    "name": "crochet tips",
+    "slug": "crochet-tips",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/35",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=35"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-top/",
+    "name": "crochet top",
+    "slug": "crochet-top",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/114",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=114"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-toys/",
+    "name": "crochet toys",
+    "slug": "crochet-toys",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/97",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=97"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-tutorial/",
+    "name": "crochet tutorial",
+    "slug": "crochet-tutorial",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/125",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=125"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-tutorials/",
+    "name": "crochet tutorials",
+    "slug": "crochet-tutorials",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/81",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=81"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 121,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-vest/",
+    "name": "crochet vest",
+    "slug": "crochet-vest",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/121",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=121"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crochet-wearables/",
+    "name": "crochet wearables",
+    "slug": "crochet-wearables",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/77",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=77"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/crocheting-tips/",
+    "name": "crocheting tips",
+    "slug": "crocheting-tips",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/49",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=49"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/diy-crafts/",
+    "name": "DIY Crafts",
+    "slug": "diy-crafts",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/10",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=10"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "count": 4,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/diy-crochet/",
+    "name": "DIY crochet",
+    "slug": "diy-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/87",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=87"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 122,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/diy-fashion/",
+    "name": "DIY fashion",
+    "slug": "diy-fashion",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/122",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=122"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/easy-crochet-clothing/",
+    "name": "easy crochet clothing",
+    "slug": "easy-crochet-clothing",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/82",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=82"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/easy-crochet-hat/",
+    "name": "easy crochet hat",
+    "slug": "easy-crochet-hat",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/142",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=142"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/easy-crochet-project/",
+    "name": "easy crochet project",
+    "slug": "easy-crochet-project",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/119",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=119"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/easy-crochet-projects/",
+    "name": "easy crochet projects",
+    "slug": "easy-crochet-projects",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/57",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=57"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/emotional-support-gifts/",
+    "name": "emotional support gifts",
+    "slug": "emotional-support-gifts",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/61",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=61"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/fall-crochet-ideas/",
+    "name": "fall crochet ideas",
+    "slug": "fall-crochet-ideas",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/59",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=59"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/fall-decor/",
+    "name": "fall decor",
+    "slug": "fall-decor",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/52",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=52"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/fashion-knitting/",
+    "name": "Fashion Knitting",
+    "slug": "fashion-knitting",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/129",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=129"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 151,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/festive-crafting/",
+    "name": "Festive Crafting",
+    "slug": "festive-crafting",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/151",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=151"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/fixing-crochet-errors/",
+    "name": "fixing crochet errors",
+    "slug": "fixing-crochet-errors",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/41",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=41"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "count": 3,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/free-crochet/",
+    "name": "Free Crochet",
+    "slug": "free-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/102",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=102"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/free-crochet-clothing-patterns/",
+    "name": "free crochet clothing patterns",
+    "slug": "free-crochet-clothing-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/83",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=83"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 150,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/free-crochet-ideas/",
+    "name": "Free Crochet Ideas",
+    "slug": "free-crochet-ideas",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/150",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=150"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "count": 3,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/free-crochet-pattern/",
+    "name": "free crochet pattern",
+    "slug": "free-crochet-pattern",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/91",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=91"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 134,
+    "count": 4,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/free-crochet-patterns/",
+    "name": "free crochet patterns",
+    "slug": "free-crochet-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/134",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=134"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/freelance-life/",
+    "name": "Freelance Life",
+    "slug": "freelance-life",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/11",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=11"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/freelancing/",
+    "name": "Freelancing",
+    "slug": "freelancing",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/12",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=12"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 156,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/granny-squares/",
+    "name": "granny squares",
+    "slug": "granny-squares",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/156",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=156"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/habits/",
+    "name": "Habits",
+    "slug": "habits",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/13",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=13"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 148,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/halloween-costumes/",
+    "name": "Halloween Costumes",
+    "slug": "halloween-costumes",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/148",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=148"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/halloween-crochet-patterns/",
+    "name": "Halloween Crochet Patterns",
+    "slug": "halloween-crochet-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/145",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=145"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/hand-painting/",
+    "name": "Hand-Painting",
+    "slug": "hand-painting",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/14",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=14"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/handmade-accessories/",
+    "name": "handmade accessories",
+    "slug": "handmade-accessories",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/86",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=86"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "count": 3,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/handmade-clothing/",
+    "name": "handmade clothing",
+    "slug": "handmade-clothing",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/99",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=99"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/handmade-crafts/",
+    "name": "handmade crafts",
+    "slug": "handmade-crafts",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/111",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=111"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/handmade-crochet-decor/",
+    "name": "handmade crochet decor",
+    "slug": "handmade-crochet-decor",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/60",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=60"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 152,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/holiday-decorations/",
+    "name": "Holiday Decorations",
+    "slug": "holiday-decorations",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/152",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=152"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/home-decor/",
+    "name": "Home Decor",
+    "slug": "home-decor",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/15",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/how-to-crochet/",
+    "name": "how to crochet",
+    "slug": "how-to-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/141",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=141"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/jellyfish-character/",
+    "name": "jellyfish character",
+    "slug": "jellyfish-character",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/107",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=107"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/journaling/",
+    "name": "Journaling",
+    "slug": "journaling",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/16",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=16"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/julie-the-jellyfish/",
+    "name": "Julie the Jellyfish",
+    "slug": "julie-the-jellyfish",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/104",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=104"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/lessons-learned/",
+    "name": "Lessons Learned",
+    "slug": "lessons-learned",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/17",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=17"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/marketing/",
+    "name": "Marketing",
+    "slug": "marketing",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/18",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=18"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/mens-crochet-pattern/",
+    "name": "men's crochet pattern",
+    "slug": "mens-crochet-pattern",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/118",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=118"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/mens-sweater-pattern/",
+    "name": "Men's Sweater Pattern",
+    "slug": "mens-sweater-pattern",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/127",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=127"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/mental-health/",
+    "name": "mental health",
+    "slug": "mental-health",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/66",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=66"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/mental-wellbeing/",
+    "name": "Mental Wellbeing",
+    "slug": "mental-wellbeing",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/19",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=19"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/mindful-crafting/",
+    "name": "mindful crafting",
+    "slug": "mindful-crafting",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/70",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=70"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/mindfulness/",
+    "name": "Mindfulness",
+    "slug": "mindfulness",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/20",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=20"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/mindset/",
+    "name": "Mindset",
+    "slug": "mindset",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/21",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=21"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/minimalism/",
+    "name": "Minimalism",
+    "slug": "minimalism",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/22",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=22"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/morning-routine/",
+    "name": "Morning Routine",
+    "slug": "morning-routine",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/23",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=23"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/mosaic-crochet/",
+    "name": "mosaic crochet",
+    "slug": "mosaic-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/47",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=47"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/ocean-adventures/",
+    "name": "ocean adventures",
+    "slug": "ocean-adventures",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/105",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=105"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/peplum-tee/",
+    "name": "peplum tee",
+    "slug": "peplum-tee",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/130",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=130"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/personal-branding/",
+    "name": "Personal Branding",
+    "slug": "personal-branding",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/24",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=24"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/personal-growth/",
+    "name": "Personal Growth",
+    "slug": "personal-growth",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/25",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=25"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/plush-axolotl/",
+    "name": "Plush Axolotl",
+    "slug": "plush-axolotl",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/101",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=101"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/positive-encouragement-decor/",
+    "name": "positive encouragement decor",
+    "slug": "positive-encouragement-decor",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/64",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=64"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/productivity/",
+    "name": "Productivity",
+    "slug": "productivity",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/26",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=26"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 144,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/quick-crochet-projects/",
+    "name": "quick crochet projects",
+    "slug": "quick-crochet-projects",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/144",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=144"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/relaxation-techniques/",
+    "name": "relaxation techniques",
+    "slug": "relaxation-techniques",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/69",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=69"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/routine/",
+    "name": "Routine",
+    "slug": "routine",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/27",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=27"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/self-care/",
+    "name": "self-care",
+    "slug": "self-care",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/74",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=74"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/sewing/",
+    "name": "Sewing",
+    "slug": "sewing",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/28",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/slow-living/",
+    "name": "Slow Living",
+    "slug": "slow-living",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/29",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=29"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/stress-relief/",
+    "name": "stress relief",
+    "slug": "stress-relief",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/67",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=67"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/stress-relief-crochet/",
+    "name": "stress relief crochet",
+    "slug": "stress-relief-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/71",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=71"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/summer-crochet/",
+    "name": "summer crochet",
+    "slug": "summer-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/100",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=100"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/summer-crochet-patterns/",
+    "name": "summer crochet patterns",
+    "slug": "summer-crochet-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/113",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=113"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/summer-fashion/",
+    "name": "summer fashion",
+    "slug": "summer-fashion",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/124",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=124"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/sustainability/",
+    "name": "Sustainability",
+    "slug": "sustainability",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/30",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=30"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/textured-beanie/",
+    "name": "textured beanie",
+    "slug": "textured-beanie",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/116",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=116"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/textured-crochet/",
+    "name": "textured crochet",
+    "slug": "textured-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/92",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=92"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/two-brothers-blankets/",
+    "name": "Two Brothers Blankets",
+    "slug": "two-brothers-blankets",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/132",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=132"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/underwater-tales/",
+    "name": "underwater tales",
+    "slug": "underwater-tales",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/108",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=108"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/unique-desk-accessories/",
+    "name": "unique desk accessories",
+    "slug": "unique-desk-accessories",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/63",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=63"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/wearable-crochet-patterns/",
+    "name": "wearable crochet patterns",
+    "slug": "wearable-crochet-patterns",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/80",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=80"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/winter-crochet/",
+    "name": "winter crochet",
+    "slug": "winter-crochet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/88",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=88"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/womens-fashion/",
+    "name": "women's fashion",
+    "slug": "womens-fashion",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/98",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=98"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/work-life-balance/",
+    "name": "Work-Life Balance",
+    "slug": "work-life-balance",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/31",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=31"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/workspace-design/",
+    "name": "Workspace Design",
+    "slug": "workspace-design",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/32",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/yarn-art/",
+    "name": "yarn art",
+    "slug": "yarn-art",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/38",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=38"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "count": 2,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/yarn-crafts/",
+    "name": "yarn crafts",
+    "slug": "yarn-crafts",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/54",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=54"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "count": 1,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/yarn-therapy/",
+    "name": "yarn therapy",
+    "slug": "yarn-therapy",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/76",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=76"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "count": 0,
+    "description": "",
+    "link": "https://craftedandcherished.com/tag/zero-waste/",
+    "name": "Zero Waste",
+    "slug": "zero-waste",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags/33",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?tags=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

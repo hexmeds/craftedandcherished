@@ -1,0 +1,11 @@
+{
+  "name": "craftedandcherished-clone",
+  "version": "1.0.0",
+  "description": "100% complete static clone & content archive of craftedandcherished.com",
+  "scripts": {
+    "start": "python3 server.py",
+    "serve": "npx serve ."
+  },
+  "author": "hexmeds",
+  "license": "MIT"
+}

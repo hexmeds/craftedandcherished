@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "count": 14,
+    "description": "Helpful crochet tips, techniques, and practical advice for makers of all levels. Learn how to improve your skills, avoid common mistakes, and crochet with confidence.",
+    "link": "https://craftedandcherished.com/category/crochet-blog/",
+    "name": "Crochet Blog &amp; Tips",
+    "slug": "crochet-blog",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories/1",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "count": 53,
+    "description": "Cozy and handmade crochet home decor ideas, including blankets, pillows, baskets, and seasonal accents designed to add warmth and personality to any space.",
+    "link": "https://craftedandcherished.com/category/crochet-home-decor/",
+    "name": "Crochet Home Decor",
+    "slug": "crochet-home-decor",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories/3",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?categories=3"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 7,
+    "description": "Thoughtful crochet stories, slow-living inspiration, and reflections on creativity, mindfulness, and the joy of handmade living—one stitch at a time.",
+    "link": "https://craftedandcherished.com/category/crochet-inspiration/",
+    "name": "Crochet Inspiration &amp; Stories",
+    "slug": "crochet-inspiration",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories/6",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?categories=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "count": 54,
+    "description": "Crochet wearables and accessories for everyday comfort, from beginner-friendly pieces to timeless handmade garments designed to be worn and loved.",
+    "link": "https://craftedandcherished.com/category/crochet-wearables/",
+    "name": "Crochet Wearables",
+    "slug": "crochet-wearables",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories/5",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?categories=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "count": 29,
+    "description": "Free crochet patterns with step-by-step instructions for wearables, home decor, and simple handmade projects, suitable for beginners and experienced crocheters alike.",
+    "link": "https://craftedandcherished.com/category/free-crochet-patterns/",
+    "name": "Free Crochet Patterns",
+    "slug": "free-crochet-patterns",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories/4",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://craftedandcherished.com/wp-json/wp/v2/posts?categories=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
